@@ -1,0 +1,53 @@
+.flight {
+    overflow: auto;
+    border-style: solid;
+    border-width: 1px;
+    margin-top: 1%;
+    margin-bottom: 1%;
+    margin-left: 2%;
+    margin-right: 2%;
+}
+
+.leftFlight {
+    float: left;
+    width: 75%;
+}
+
+.price {
+    margin-left: 2%;
+    margin-right: 2%;
+    margin-top: 2%;
+    margin-bottom: 2%;
+}
+
+.flightOrder {
+    margin-top: 2%;
+}
+
+.details {
+    float: left;
+    width: 46%;
+    margin-left: 2%;
+    margin-right: 2%;
+    margin-top: 2%;
+    margin-bottom: 2%;
+}
+
+.rightFlight {
+    float: left;
+    width: 25%;
+}
+
+.images {
+    display: block;
+    margin-top: 10%;
+    margin-bottom: 10%;
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
+    height: 80%;
+
+    button {
+        width: 100%;
+    }
+  }

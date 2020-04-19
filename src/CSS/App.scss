@@ -1,0 +1,89 @@
+h1 {
+  text-align: center;
+}
+
+.column {
+  float: left;
+}
+
+.tab {
+  overflow: hidden;
+  border: 1px solid #ccc;
+  background-color: #f1f1f1;
+}
+
+.tab button {
+  background-color: inherit;
+  float: left;
+  border: none;
+  outline: none;
+  cursor: pointer;
+  padding: 14px 16px;
+  transition: 0.3s;
+}
+
+.tab button:hover {
+  background-color: #ddd;
+}
+
+.tab button.active {
+  background-color: #ccc;
+}
+
+.tabcontent {
+  display: none;
+  padding: 6px 12px;
+  border: 1px solid #ccc;
+  border-top: none;
+}
+
+.left {
+  width: 25%;
+  background-color: #ccc;
+}
+
+.image {
+  align-content: center;
+}
+
+.right {
+  width: 75%;
+  background-color: darkgray;
+}
+
+.row {
+  margin-left: 5%;
+  margin-right: 5%;
+}
+
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+.flightOrder {
+  float: left;
+  width: 75%;
+}
+
+.dates {
+  float: left;
+  width: 25%;
+}
+
+input {
+  margin-top: 5%;
+  margin-right: 5%;
+  margin-left: 5%;
+  width: 90%;
+}
+
+#search {
+  margin-bottom: 5%;
+}
+
+.dates {
+  margin-top: 2%;
+  margin-bottom: 2%;
+}

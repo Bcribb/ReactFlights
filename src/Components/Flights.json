@@ -1,0 +1,5 @@
+[
+	{"flightID": "NZ-101", "source" : "Auckland", "src" : "AKL", "destination" : "Christchurch", "dest" : "CCH", "departureDate" : "2020-05-20", "time" : "10.00 AM", "price" : 100},
+	{"flightID": "NZ-102", "source" : "Christchurch", "src" : "CCH", "destination" : "Auckland", "dest" : "AKL", "departureDate" : "2020-06-01", "time" : "10.00 AM", "price" : 200},
+	{"flightID": "NZ-103", "source" : "Auckland", "src" : "AKL", "destination" : "Christchurch", "dest" : "CCH", "departureDate" : "2020-04-20", "time" : "10.00 AM", "price" : 300}
+]
